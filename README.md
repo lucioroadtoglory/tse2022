@@ -10,7 +10,9 @@ Os dados utilizado são disponibilizados diretamente pelo [TSE em formato JSON](
 Instale as dependências do projeto usando o [Yarn](https://yarnpkg.com/getting-started/install):
 
 ```bash
+
 yarn install
+
 ```
 
 ### Primeiro passo
